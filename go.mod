@@ -1,4 +1,4 @@
-module food-app
+module food-app-server
 
 go 1.13
 
