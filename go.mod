@@ -17,3 +17,6 @@ require (
 	golang.org/x/crypto v0.0.0-20191205180655-e7c4368fe9dd
 	gopkg.in/stretchr/testify.v1 v1.2.2 // indirect
 )
+
+replace food-app-server => github.com/dayeshisir/food-app-server v0.0.0-20200610151530-00cf3aaa428d
+
